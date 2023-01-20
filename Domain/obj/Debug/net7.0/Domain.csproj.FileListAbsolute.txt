@@ -1,0 +1,12 @@
+D:\CSharpPractices\ContactCRUD\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\CSharpPractices\ContactCRUD\Domain\bin\Debug\net7.0\Domain.dll
+D:\CSharpPractices\ContactCRUD\Domain\bin\Debug\net7.0\Domain.pdb
+D:\CSharpPractices\ContactCRUD\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\CSharpPractices\ContactCRUD\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\ContactCRUD\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\CSharpPractices\ContactCRUD\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\CSharpPractices\ContactCRUD\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\ContactCRUD\Domain\obj\Debug\net7.0\Domain.dll
+D:\CSharpPractices\ContactCRUD\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\CSharpPractices\ContactCRUD\Domain\obj\Debug\net7.0\Domain.pdb
+D:\CSharpPractices\ContactCRUD\Domain\obj\Debug\net7.0\ref\Domain.dll
